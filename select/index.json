@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バッドフォーミー",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-02-12T12:01:35.784790Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バッドフォーミー",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/pl_01_バッドフォーミー_Official_HIGE_DANdism.txt"
+    }
+  ]
+}
